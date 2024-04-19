@@ -19,7 +19,3 @@ dist/
 
 .idea/
 .vscode/
-
-logs/*
-orders/*
-scripts/images
